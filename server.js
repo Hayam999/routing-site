@@ -1,5 +1,5 @@
-const http = require("http");
-const fs = require("fs");
+//const http = require("http");
+/* const fs = require("fs");
 const path = require("path");
 const url = require("url");
 
@@ -64,3 +64,4 @@ server.listen(PORT);
 server.on("error", (err) => {
   console.error("Server error", err);
 });
+ */
